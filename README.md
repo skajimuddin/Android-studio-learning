@@ -1,1 +1,1 @@
-This repository is a collection of code I wrote while learning Android studio
+This repository is a collection of code I wrote while learning Android studio 
